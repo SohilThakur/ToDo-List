@@ -103,7 +103,8 @@ ul li span{
     font-size: 22px;
     color: #555;
     line-height: 40px;
-    text-align: centre;
+    text-align: center;
+    border-radius: 50%;
 }
 
 ul li span:hover{
